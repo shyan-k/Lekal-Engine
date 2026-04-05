@@ -14,5 +14,5 @@ Lekal is a custom-built, high-performance scripting language designed for rapid 
 3. Run the script using **Python 3.10+**.
 4. Start coding in the `Lekal >>` prompt.
 
-## 📜 Example Script
+##  Example Script
 `name = input >> "Enter Name:" & say >> "Welcome" & say >> name`
