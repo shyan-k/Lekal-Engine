@@ -10,9 +10,9 @@ Lekal is a custom-built, high-performance scripting language designed for rapid 
 - **User Input:** Use `variable = input >> "Message"` to interact with players.
 
 ## 💻 Installation
-1. Download `lekal_engine.py`.
-2. Run the script using **Python 3.10+**.
-3. Start coding in the `Lekal >>` prompt.
+1. Download `lekal-eng`.
+3. Run the script using **Python 3.10+**.
+4. Start coding in the `Lekal >>` prompt.
 
 ## 📜 Example Script
 `name = input >> "Enter Name:" & say >> "Welcome" & say >> name`
